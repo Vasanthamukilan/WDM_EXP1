@@ -1,5 +1,4 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -54,6 +53,15 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+### Employee data:
+
+![image](https://github.com/user-attachments/assets/7e090da9-9856-46d6-8577-1627b395832b)
+
+
+### Weather data:
+
+![image](https://github.com/user-attachments/assets/10a84c8d-575c-4449-bb7a-e262f6f25e16)
+
 
 
 ### PREPROCESSING
@@ -76,6 +84,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/b66f50d1-f6e8-463c-8d3a-546ebb9e07c6)
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -92,6 +103,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/2ab63124-e492-44d0-9deb-5cfe46a2b198)
+
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +121,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+![image](https://github.com/user-attachments/assets/d4696226-4ccd-4c31-9104-f56bcd150078)
+
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
